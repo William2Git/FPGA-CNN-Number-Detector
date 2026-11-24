@@ -1,0 +1,15 @@
+C:/intelFPGA_lite/CNNFPGA_NumberDetection/weights_rom.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/CNNFPGA_NumberDetection/weights_rom.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module weights_rom
+
+Top level modules:
+	weights_rom
+
+} {} {}} C:/intelFPGA_lite/CNNFPGA_NumberDetection/Modelsim/parameters_tb.v {1 {vlog -work work -stats=none C:/intelFPGA_lite/CNNFPGA_NumberDetection/Modelsim/parameters_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module parameters_tb
+
+Top level modules:
+	parameters_tb
+
+} {} {}}
