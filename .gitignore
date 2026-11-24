@@ -1,3 +1,5 @@
+Set-Content -Path .gitignore -Value @"
+# Quartus generated folders and files
 db/
 incremental_db/
 output_files/
@@ -20,3 +22,15 @@ hc_output/
 *.htm
 *.map
 *.qdf
+
+# ModelSim generated build, waveform, and local project files
+work/
+*.wlf
+*.vstf
+*.mpf
+*.cr.mti
+*.ver
+transcript
+vsim.dbg
+modelsim.ini
+"@
