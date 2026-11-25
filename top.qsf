@@ -59,3 +59,5 @@ set_global_assignment -name VERILOG_FILE convolution.v
 set_global_assignment -name VERILOG_FILE parameters.v
 set_global_assignment -name QIP_FILE image_rom.qip
 set_global_assignment -name QIP_FILE weights_rom.qip
+set_global_assignment -name VERILOG_FILE modules/read_img.v
+set_global_assignment -name VERILOG_FILE accumulator.v
