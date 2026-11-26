@@ -1,4 +1,4 @@
-module parameters (CLOCK_50, SW, LEDR, HEX0, HEX1, HEX2, HEX3);
+**module parameters (CLOCK_50, SW, LEDR, HEX0, HEX1, HEX2, HEX3);
    input CLOCK_50;
    input [9:0] SW;
    output [9:0] LEDR;
